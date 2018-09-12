@@ -10,4 +10,4 @@ def is_multiple(m, n):
         
     
 #calling function by assining arguments 3, 9  
-is_multiple(4, 9)    
+is_multiple(3, 9)    
